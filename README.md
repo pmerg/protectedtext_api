@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-[protectedtext.com](https://www.protectedtext.com/) javascript api.
+[protectedtext.com](https://www.protectedtext.com/) typescript/javascript api.
 
 This is a minimal [Electron](http://electron.atom.io) application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
 
